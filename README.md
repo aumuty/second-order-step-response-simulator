@@ -2,7 +2,7 @@
 
 This project models and analyzes the response of a second-order dynamic system to a unit-step input:
 
-<img width="419" height="84" alt="image" src="https://github.com/user-attachments/assets/850784ef-fa5b-4d1d-b368-a36d2763d141" />
+<img width="365" height="59" alt="image" src="https://github.com/user-attachments/assets/be515f29-0056-4b4a-8f85-d286b6686533" />
 
 ---
 
